@@ -1,0 +1,34 @@
+9
+
+dir
+3142
+svn+ssh://srl.cs.berkeley.edu/projects/calfuzzer/test/javato
+svn+ssh://srl.cs.berkeley.edu/projects
+
+
+
+2010-03-05T19:13:14.147208Z
+2931
+parkcs
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+87e6b42e-1434-0410-a6c3-37841a2aa69a
+
+activetesting
+dir
+
+cbreakpoints
+dir
+
